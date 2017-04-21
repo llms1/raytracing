@@ -1,0 +1,7 @@
+function [richtungs ] = run(c, f, lamb, ldir, rlicht )
+%RUN calculates the matrix and plots it
+%   uses the STRAHL function to calculate the grauwert for each pixel
+
+
+end
+

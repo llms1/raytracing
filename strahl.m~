@@ -1,0 +1,13 @@
+function [ grauwert ] = strahl(c, richtungsvektor, f, lamb, ldir, rlicht )
+%STRAHL supervises the calculation for the grauwert
+%   uses LOESER to determine the point in space that is seen for the pixel
+%   and then uses LICHT to determine the grauwert at that point
+%  @param c  is the point of the camera
+%  @param richtungsvektor is the direction of view
+%  @param f is the function to be plottet
+
+
+%  @param light: lamb, ldir 
+
+end
+
